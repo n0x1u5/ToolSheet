@@ -34,7 +34,7 @@
                         ~By n0xi~
 
 
-########################################  Páginas con herramientas / Posts interesantes ###################################
+###  Páginas con herramientas / Posts interesantes ###
 
  v = visto/leido
 
@@ -124,7 +124,7 @@
  v  https://pentestbook.six2dez.com/ --> Best hacking tools by Alexis Fernandez (six2dez)
  v  https://ciberpatrulla.com/buscar-persona-nombre-apellidos/
 
-####################################### Distros hacking etico ###########################################
+### Distros hacking etico ###
 
 -KaliLinux
 -CommandoVM: suite de hacking etico basado en Windows
@@ -148,7 +148,7 @@
 -CSI Linux: Versión de Linux para informática forense.
 -Andrax: Distro de hacking etico desarrollada específicamente para smartphones Android, ANDRAX tiene la capacidad de ejecutarse de forma nativa en Android, por lo que se comporta como una distribución Linux común.
 
-### OSINT Igenieria Social
+### OSINT Igenieria Social ###
 
 - casefile
 - creepy
@@ -168,7 +168,7 @@
 - Amass: [https://github.com/OWASP/Amass](https://github.com/OWASP/Amass)
 - GoWitness: [https://github.com/sensepost/gowitness/wiki/Installation](https://github.com/sensepost/gowitness/wiki/Installation)
 
-### OSINT Buscadores
+### OSINT Buscadores ###
 
 - DuckDuckGo - [https://duckduckgo.com/](https://duckduckgo.com/)
 - DuckDuckGo Search Guide - [https://help.duckduckgo.com/duckduckgo-help-pages/results/syntax/](https://help.duckduckgo.com/duckduckgo-help-pages/results/syntax/)
@@ -179,7 +179,7 @@
 - Google Search Guide - [http://www.googleguide.com/print/adv_op_ref.pdf](http://www.googleguide.com/print/adv_op_ref.pdf)
 - TinEye - [https://tineye.com](https://tineye.com/)
 
-### OSINT E-mails
+### OSINT E-mails ###
 
 - Hunter.io - [https://hunter.io/](https://hunter.io/)
 - Phonebook.cz - [https://phonebook.cz/](https://phonebook.cz/)
@@ -188,7 +188,7 @@
 - Email Checker - [https://email-checker.net/validate](https://email-checker.net/validate)
 - Clearbit Connect - [https://chrome.google.com/webstore/detail/clearbit-connect-supercha/pmnhcgfcafcnkbengdcanjablaabjplo?hl=en](https://chrome.google.com/webstore/detail/clearbit-connect-supercha/pmnhcgfcafcnkbengdcanjablaabjplo?hl=en)
 
-### OSINT Contraseñas
+### OSINT Contraseñas ###
 
 - Dehashed - [https://dehashed.com/](https://dehashed.com/)
 - WeLeakInfo - [https://weleakinfo.to/v2/](https://weleakinfo.to/v2/)
@@ -197,13 +197,13 @@
 - Scylla.sh - [https://scylla.sh/](https://scylla.sh/)
 - HaveIBeenPwned - [https://haveibeenpwned.com/](https://haveibeenpwned.com/)
 
-### OSINT Nombres de usuarios
+### OSINT Nombres de usuarios ###
 
 - NameChk - [https://namechk.com/](https://namechk.com/)
 - WhatsMyName - [https://whatsmyname.app/](https://whatsmyname.app/)
 - NameCheckup - [https://namecheckup.com/](https://namecheckup.com/)
 
-### OSINT Personas
+### OSINT Personas ###
 
 - WhitePages - [https://www.whitepages.com/](https://www.whitepages.com/)
 - TruePeopleSearch - [https://www.truepeoplesearch.com/](https://www.truepeoplesearch.com/)
@@ -219,7 +219,7 @@
 - CallerID Test - [https://calleridtest.com/](https://calleridtest.com/)
 - Infobel - [https://infobel.com/](https://infobel.com/)
 
-### OSINT Redes sociales
+### OSINT Redes sociales ###
 
 - Twitter Advanced Search - [https://twitter.com/search-advanced](https://twitter.com/search-advanced)
 - Social Bearing - [https://socialbearing.com/](https://socialbearing.com/)
@@ -238,7 +238,7 @@
 - ImgInn - [https://imginn.com/](https://imginn.com/)
 - Snapchat Maps - [https://map.snapchat.com](https://map.snapchat.com/)
 
-### OSINT Web
+### OSINT Web ###
 
 - BuiltWith - [https://builtwith.com/](https://builtwith.com/)
 - Domain Dossier - [https://centralops.net/co/](https://centralops.net/co/)
@@ -254,28 +254,546 @@
 - Shodan - [https://shodan.io](https://shodan.io/)
 - Wayback Machine - [https://web.archive.org/](https://web.archive.org/)
 
-### OSINT Empresas
+### OSINT Empresas ###
 
 - Open Corporates - [https://opencorporates.com/](https://opencorporates.com/)
 - AI HIT - [https://www.aihitdata.com/](https://www.aihitdata.com/)
 
-### OSINT Wi-Fi
+### OSINT Wi-Fi ###
 
 - WiGLE - [https://wigle.net/](https://wigle.net/)
 
-### Máquina virtual OSINT
+### Máquina virtual OSINT ###
 
 - TraceLabs OSINT VM - [https://www.tracelabs.org/initiatives/osint-vm](https://www.tracelabs.org/initiatives/osint-vm)
 - TraceLabs OSINT VM Installation Guide - [https://download.tracelabs.org/Trace-Labs-OSINT-VM-Installation-Guide-v2.pdf](https://download.tracelabs.org/Trace-Labs-OSINT-VM-Installation-Guide-v2.pdf)
 
-### Recursos adicionales
+### Recursos adicionales ###
 
 - Innocent Lives Foundation - [https://www.innocentlivesfoundation.org/](https://www.innocentlivesfoundation.org/)
 - Alethe Denis - [https://twitter.com/AletheDenis](https://twitter.com/AletheDenis)
 - Joe Gray - [https://twitter.com/C_3PJoe](https://twitter.com/C_3PJoe)
 - IntelTechniques - [https://inteltechniques.com/](https://inteltechniques.com/)
+ 
+### Herramientas DNS Análisis DNS ###
+ 
+ - dnsdict6
+ - dnsenum
+ - dnsmap
+ - dnsrecon
+ - dnsrevenum6
+ - dnstracer
+ - dnswalk
+ - fierce
+ - maltego
+ - nmap
+ - urlcrazy
+ 
+### Identificación Host ###
+ 
+    fragroute
+    fragrouter
+    wafw00f 
+    alive6
+    arping
+    cdpsnarf
+    detect-new-ip-6
+    detect-sniffer6
+    dmitry
+    dnmap-client
+    dnmap-server
+    fping
+    hping3
+    inverse_lookup6
+    miranda
+    ncat
+    netdiscover
+    nmap
+    passive_discovery6
+    thcping6
+    wol-e
+    xprobe2
+ 
+### Escáner de Red ###
+ 
+    dmitry
+    dnmap-client 
+    dnmap-server
+    netdiscover
+    nmap
+ 
+ 
+### Detección Sistema Operativo (OS Fingerprinting) ###
+ 
+    dnmap-client
+    dnmap-server
+    miranda
+    nmap
+ 
+### Análisis Samba ###
+ 
+    accheck
+    nbtscan
+    nmap
+ 
+### Análisis SNMP ###
+ 
+    braa
+    cisco-auditing-tool
+    cisco-torch
+    copy-router-config
+    merge-router-config
+    nmap
+    onesixtyone
+ 
+### Análisis SSL ###
+ 
+    sslcaudit
+    ssldump
+    sslh
+    sslscan
+    sslsniff
+    sslstrip
+    sslyze
+    stunnel4
+    tlssled
+ 
+### Análisis de Tráfico ###
+ 
+    cdpsnarf
+    intrace
+    irpas-ass
+    irpass-cdp
+    p0f
+    tcpflow
+    wireshark
+ 
+### Análisis de VOIP ###
+ 
+    ace
+    enumiax
+ 
+### Análisis VPN ###
+ 
+     ike-scan
+ 
+### Análisis Vulnerabilidades ###
+ 
+    cisco-auditing-tool
+    cisco-global-exploiter
+    cisco-ocs
+    cisco-torch
+    yersinia
+ 
+### Análisis Base de Datos (SQL) ###
+ 
+    bbqsql
+    dbpwaudit
+    hexorbase
+    mdb-export
+    mdb-parsecsv
+    mdb-sql
+    mdb-tables
+    oscanner
+    sidguesser
+    sqldict
+    sqlmap
+    sqlninja
+    sqlsus
+    tnscmd10g
+ 
+### Herramientas Fuzzing (Fuerza Bruta) ###
+ 
+    bed
+    fuzz_ip6
+    ohrwurm
+    powerfuzzer
+    sfuzz
+    siparmyknife
+    spike-generic_chunked
+    spike-generic_listen_tcp
+    spike-generic_send_tcp
+    spike-generic_listen_upd
+    burpsuite
+    powerfuzzer
+    webscarab
+    webslayer
+    websploit
+    wfuzz
+    xsser
+    zaproxy
+ 
+### Identificación de CMS ###
+ 
+     blindelephant
+     plecost
+     wpscan
+ 
+### Proxys ###
+ 
+    burpsuite
+    paros
+    proxystrike
+    vega
+    webscarab
+    zaproxy
+ 
+### Herramientas Web ###
+ 
+    apache-users
+    burpsuite
+    cutycapt
+    dirb
+    dirbuster
+    vega
+    webscarab
+    webslayer
+    zaproxy
+ 
+### Herramientas GPU ###
+ 
+     oclhashcat-lite
+     oclhashcat-plus
+     pyrit
+ 
+### Herramientas Off-line ###
+ 
+    cachedump
+    chntpw
+    cmospwd
+    crunch
+    dictstat
+    hashcat
+    hash-identifier
+    john the ripper
+    johnny
+    lsadump
+    maskgen
+    oclhashcat-lite
+    oclhashcat-plus
+    ophcrack
+    ophcrack-cli
+    policygen
+    pwdump
+    pyrit
+    rainbowcrack
+    rcracki_mt
+    rsmangler
+    samdump2
+    sipcrack
+    sucrack
+    truecrack
+ 
+### Herramientas Online ###
+ 
+    accheck
+    burpsuite
+    cewl
+    cisco-auditing-tool
+    dbpwaudit
+    findmyhash
+    hydra
+    hydra-gtk
+    medusa
+    ncrack
+    onesixtyone
+    patator
+    phrasendrescher
+    thc-pptp-bruter
+    webscarab
+    zaproxy
+ 
+### Ataques Bluetooth ###
+ 
+    bluelog
+    bluemaho
+    blueranger
+    btscanner
+    fang
+    spooftooph
+ 
+### Herramientas Wireless - Wifi ###
+ 
+    aircrack-ng
+    aireplay-ng
+    airmon-ng
+    airodump-ng
+    asleap
+    cowpatty
+    eapmd5pass
+    fern-wifi-cracker
+    genkeys 
+    genpmk
+    giskismet 
+    kismet
+    mdk3
+    wifiarp
+    wifidns 
+    wifi-honey
+    wifiping 
+    wifitap
+    wifite 
+    zbassocflood 
+    zbconvert
+    zbdsniff 
+    zbdump
+    zbfind 
+    zbgoodfind 
+    zbid 
+    zbreplay 
+    zbstumbler
+ 
+### Herramientas NFC ###
+ 
+    mfcuk
+     mfoc
+    mifare-classic-format
+    nfc-list
+    nfc-mfclassic
+ 
+### Sniffers de Red ###
+ 
+    darkstat
+    dnschef
+    dnsspoof 
+    dsniff
+    ettercap-graphical
+    hexinject
+    mailsnarf 
+    netsniff-ng 
+    passive_discovery6 
+    sslsniff 
+    tcpflow
+    urlsnarf 
+    webmitm 
+    webspy 
+    wireshark
+     ettercap-graphical
+    evilgrade
+    fake_advertise6
+    fake_dns6d
+    fake_dnsupdate6 
+    fake_mipv6
+    fake_mld26
+    fake_mld6
+    fake_mldrouter6
+    fake_router6
+    fake_solicitate6 
+    fiked 
+    macchanger 
+    parasite6 
+    randicmp6
+    rebind
+    redir6 
+    sniffjoke 
+    sslstrip 
+    tcpreplay 
+    wifi-honey 
+    yersinia
+ 
+### Herramientas VoIP ###
+ 
+    iaxflood
+    inviteflood 
+    ohrwurm
+    protos-sip
+    rtpbreak
+    rtpflood 
+    rtpinsertsound 
+    rtpmixsound
+    sctpscan
+    siparmyknife
+    sipp
+    sipsak 
+    svcrack 
+    svcrash
+    svmap
+    svreport
+    svwar 
+    voiphopper
+ 
+### Sniffers Web ###
+ 
+    burpsuite
+    dnsspoof 
+    driftnet 
+    ferret
+    mitmproxy
+    urlsnarf
+    webmitm
+    webscarab
+    webspy
+    zaproxy
+ 
+### Backdoors ###
+ 
+    cymothoa 
+    dbd
+    intersect
+    powersploit
+    sbd 
+    u3-pwn
+ 
+### Herramientas de Tunneling ###
+ 
+    cryptcat
+    dbd
+    dns2tcpc
+    dns2tcpd
+    iodine
+    miredo
+    ncat
+    proxychains
+    proxytunnel
+    ptunnel
+    pwnat 
+    sbd socat
+    sslh 
+    stunnel4
+    updtunnel
+ 
+### Debuggers (Decompiladores) y Reversing ###
+ 
+    edb-debugger 
+    ollydbg
+    jad
+    rabin2
+    radiff2
+    rasm2
+    recstudio
+    recstudio-cli
+    apktool
+    clang
+    clang++ 
+    dex2jar 
+    flasm 
+    javasnoop
+    radare2 
+    rafind2
+    ragg2
+    ragg2-cc
+    rahash2
+    rarun2
+    rax2
+ 
+### Herramientas Stress de Red (Web, Wlan) ###
+ 
+    denial6
+    dhcpig
+    dos-new-ip6 
+    flodd_advertise6 
+    flood_dhcpc6 
+    flood_mld26 
+    flood_mld6
+    flood_mldrouter26
+    flood_router6 
+    flood_solicitate6
+    fragmentation6
+    inundator 
+    kill_router6
+    macof
+    rsmurf6 
+    siege 
+    smurf6
+    iaxflood
+    invite flood
+    thc-ssl-dos
+    mdk3
+    reaver
+ 
+### Herramientas Android ###
+ 
+    android-sdk
+    apktool 
+    baksmali
+    dex2jar
+    smali
+ 
+### Herramientas Análisis Forense (Creación imágenes, Suites, RAM, PDF) ###
+ 
+    autopsy
+    binwalk
+    bulk_extractor
+    chrootkit
+    dc3dd 
+    dcfldd
+    extundelete
+    foremost
+    fsstat
+    galleta
+    tsk_comparedir
+    tsk_loaddb
+    affcompare
+    affcopy
+    affcrypto
+    affdiskprint
+    affinfo
+    affsignaffstats
+    affuse 
+    affverify
+    affxml
+    blkcalc
+    blkcat
+    blkstat
+    bulk_extractor
+    ffind
+    fls
+    foremost
+    galleta
+    hfind
+    icat-sleuthkit
+    ifind
+    ils-sleuthkit
+    istat
+    jcat
+    mactime-sleuthkit
+    missidentify
+    mmcat
+    pdgmail
+    readpst
+    reglookup
+    sorter
+    srch-strings
+    tsk_recover
+    vinetto
+    binwalk
+    bulk_extractor
+    foremost
+    jls
+    magicrescue
+    pasco
+    pev
+    recoverjpeg
+    fifiuti
+    rifiuti2
+    safecopy
+    scalpel
+    scrounge-ntfs
+    affcat
+    affconvert
+    blkls
+    dc3dd
+    dcfldd
+    ddrescue
+    ewfacquire
+    ewfacquirestream
+    ewfexport
+    ewfinfo
+    ewfverify
+    fsstat
+    guymager
+    img_cat
+    img_stat
+    mmls
+    mmstat
+    tsk_gettimes
+    dff
+    pdf-parser
+    peepdf
+    volafox
+    volatility
 
-### Other Tools
+### Other Tools ###
 
 - httpanalizer: analizador de vulnerabilidades a sitios web -> otras: achilles, ZAP, Acunetix, Nikto
 - Nessus: analizador de vulnerabilidades en general
