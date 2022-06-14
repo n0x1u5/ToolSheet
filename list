@@ -154,6 +154,7 @@
 -Damn Vulnerable Apps: Aplicaciones vulnerables para practicar hacking ético https://blog.ehcgroup.io/index.php/2019/11/29/lista-de-malditas-aplicaciones-vulnerables-para-jugar-con-el-pentesting/
 -CSI Linux: Versión de Linux para informática forense.
 -Andrax: Distro de hacking etico desarrollada específicamente para smartphones Android, ANDRAX tiene la capacidad de ejecutarse de forma nativa en Android, por lo que se comporta como una distribución Linux común.
+-Tails: Sistema operativo portátil que te protege de la vigilancia y la censura. Puedes descargarlo de forma gratuita ya que está disponible bajo licencia GNU/Linux.
 
 ### OSINT Igenieria Social ###
 
@@ -1091,6 +1092,8 @@
 - CamPhish: Capturar Fotos de Cámara del Objetivo Enviando un Enlace
 - Sub3Suite: Is a research-grade suite of tools for Subdomain Enumeration, OSINT Information gathering & Attack Surface Mapping. Supports both manual and automated analysis on variety of target types with many available features & tools
 - PDFiD: Es un componente de Didier Stevens Suite capaz de escanear documentos PDF usando una lista de cadenas para detectar elementos JavaScript, archivos incrustados, acciones al abrir archivos y conteo de líneas específicas en un documento. [https://noticiasseguridad.com/tutoriales/como-realizar-informatica-forense-en-archivos-pdf-maliciosos-revisa-si-este-pdf-contiene-malware-o-backdoors/](https://noticiasseguridad.com/tutoriales/como-realizar-informatica-forense-en-archivos-pdf-maliciosos-revisa-si-este-pdf-contiene-malware-o-backdoors/)
+- Fake Name Generator: Permite generar un perfil aleatorio/falso con numerosos datos --> https://es.fakenamegenerator.com/advanced.php
+- TinEye: Es un buscador específico de imágenes, donde también se puede buscar por imagen o realizar la búsqueda de imagen inversa, cargando una imagen o buscando por URL. También permite simplemente arrastrar y soltar las imágenes para comenzar su búsqueda.
 
 ### Penetration Testing Resources ###
 
