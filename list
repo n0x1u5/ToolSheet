@@ -36,100 +36,102 @@
 
 ###  Páginas con herramientas / Posts interesantes ###
 
- v = visto/leido
 
-    https://www.concise-courses.com/hacking-tools/top-ten/
-    https://esgeeks.com/scripts-modulos-seguridad-powershell/
- v  https://www.hacking.land/2019/12/las-20-herramientas-de-hacking-m.html
-    https://esgeeks.com/herramientas-enumeracion-subdominios/
-    https://esgeeks.com/mejores-extensiones-chrome-para-pentesting/
-    https://esgeeks.com/payload-evadir-antivirus-python/
-    https://highon.coffee/blog/penetration-testing-tools-cheat-sheet/
-    https://esgeeks.com/falsificar-telefono-llamadas-sms/
-    https://www.hackplayers.com/2020/02/comparativa-tools-subdominios.html
-    https://esgeeks.com/herramientas-pentesting-profesionales/
-    https://protegermipc.net/2018/08/29/que-es-la-informatica-forense/ + (Herramientas forense)
-    https://github.com/B3nac/Android-Reports-and-Resources (Hacking Android)
- v  https://attack.mitre.org/software/ (Tools Mitre)
- v  https://esgeeks.com/robar-contrasena-windows-fakelogonscreen/ (Pantalla login fake Windows)
-    https://gbhackers.com/hacking-tools-list/
-    https://www.redeszone.net/tutoriales/seguridad/herramientas-pentesting-redes-locales/
-    https://noticiasseguridad.com/tutoriales/bibliotecas-de-python-empleadas-en-el-hacking/
-    https://noticiasseguridad.com/seguridad-informatica/como-hackear-facilmente-su-smart-tv-samsung-y-lg/
-    https://noticiasseguridad.com/vulnerabilidades/top-10-los-exploits-mas-utilizados-por-los-hackers-para-controlar-servidores-facilmente/
-    https://esgeeks.com/hackear-facebook-con-batch-windows/
-    https://www.elladodelmal.com/2020/04/hacking-windows-bitsadmin-for-pentesters.html
- v  https://blog.ehcgroup.io/2020/04/27/17/37/27/8598/las-herramientas-de-hacking-mas-famosas-de-2019/herramientas-de-seguridad/ehacking/
-    https://www.hacking.land/2020/05/powershell-reverse-tcp-powershell.html
-    https://noticiasseguridad.com/tutoriales/hackear-windows-10-utilizando-torat-herramienta-de-administrador-remoto-paso-a-paso/
-    https://www.hackplayers.com/2020/05/crackear-usuario-windows-sin-privilegios.html
- v  https://thehackerway.com/2020/05/24/20-servicios-online-interesantes-para-red-teaming-o-pentesting/
-    https://www.hackplayers.com/2020/06/backup-tosystem-abusando-de-los.html#more
-    https://mundohacker.es/como-puedo-hackear-instagram-gratis/
-    https://esgeeks.com/hacking-android-backdoor-apk/
-    https://null-byte.wonderhowto.com/how-to/hack-wi-fi-cracking-wpa2-passwords-using-new-pmkid-hashcat-attack-0189379/
-    https://www.hackbysecurity.com/blog/sql-injection
-    https://noticiasseguridad.com/tutoriales/como-hackear-wifi-30-mejores-aplicaciones-de-hacking-para-android-y-iphone-en-2020/
-    https://www.hackbysecurity.com/blog/extensiones
- v  https://null-byte.wonderhowto.com/how-to/escape-restricted-shell-environments-linux-0341685/
- v  https://null-byte.wonderhowto.com/how-to/analyze-web-browser-extensions-for-possible-malware-other-malicious-activity-0236335/
- v  https://www.hackplayers.com/2020/10/cmds-para-descargar-y-ejecutar-codigo.html
- v  https://www.hackplayers.com/2020/10/spybrowse-codigo-robar-navegadores.html
- v  https://www.hacking.land/2020/10/listado-de-herramientas-osint.html
-    https://null-byte.wonderhowto.com/how-to/write-xss-cookie-stealer-javascript-steal-passwords-0180833/
-    https://null-byte.wonderhowto.com/how-to/hack-like-pro-denial-service-dos-tools-techniques-0165699/
-    https://null-byte.wonderhowto.com/how-to/hack-like-pro-hack-windows-vista-7-8-with-new-media-center-exploit-0164729/
- v  https://esgeeks.com/android-pin-bruteforce-desbloquear-telefono-fuerza-bruta/
- v  https://esgeeks.com/top-apps-monitorear-telefonos/
- v  https://null-byte.wonderhowto.com/how-to/essential-skills-becoming-master-hacker-0154509/
- v  https://null-byte.wonderhowto.com/how-to/hack-databases-cracking-sql-server-passwords-owning-server-0149636/
- v  https://www.secjuice.com/phone-numbers-investigation-the-open-source-way/
- v  https://top10espiasoftware.com/ --> Top 10 aplicaciones para espiar móviles
- v  https://esgeeks.com/guia-footprinting-de-sitios-web/
-    https://www.elladodelmal.com/2020/12/depix-como-depixelar-contrasenas-que.html
- v  https://noticiasseguridad.com/vulnerabilidades/como-hackear-paypal-y-robar-dinero-de-los-demas-como-un-profesional/
- v  https://noticiasseguridad.com/seguridad-informatica/como-hackear-facilmente-su-smart-tv-samsung-y-lg/
- v  https://noticiasseguridad.com/tutoriales/seis-aplicaciones-de-hacking-para-android-que-todo-usuario-debe-tener/
- v  https://noticiasseguridad.com/tutoriales/como-hackear-las-cuentas-y-cookies-de-instagram-y-facebook-solo-con-un-click-video/
- v  https://noticiasseguridad.com/tutoriales/como-detectar-camaras-ocultas-en-hoteles-cajeros-automaticos-probadores-etc-usando-su-smartphone/
-    https://null-byte.wonderhowto.com/how-to/hack-like-pro-finding-potential-suid-sgid-vulnerabilities-linux-unix-systems-0158373/
- v  https://www.hackplayers.com/2008/08/herramientas-sql-injection.html
- v  https://www.hackplayers.com/2019/11/taller-para-escalar-privilegios-en-windows-linux.html
- v  https://www.manusoft.es/windows/entrar-en-windows-sin-contrasena-como-administrador/
- v  https://www.hacking.land/2020/12/las-20-herramientas-de-hacking-m.html
- v  https://noticiasseguridad.com/importantes/como-extraer-datos-forenses-del-dispositivo-movil-de-android/
- v  https://noticiasseguridad.com/seguridad-informatica/como-interceptar-comunicaciones-moviles-llamadas-y-mensajes-facilmente-sin-hackear/
- v  https://noticiasseguridad.com/tutoriales/guia-completa-para-rastrear-aviones-de-presidentes-militares-y-aviones-de-pasajeros/
- v  https://www.hacking.land/2021/01/bug-en-windows-10-permite-corromper-el.html --> corromper disco c: windows 10
- v  https://noticiasseguridad.com/tutoriales/como-hacer-analisis-informatica-forenses-de-memoria-ram-para-recuperar-contrasenas-e-informacion-confidencial-con-mxtract/
-    https://noticiasseguridad.com/tutoriales/como-hacer-una-auditoria-de-ciberseguridad-de-una-red-de-camaras-ip-tutorial-de-pentesting-de-sistemas-cctv/
-    https://noticiasseguridad.com/tutoriales/como-detectar-camaras-ocultas-o-spy-cam-en-una-habitacion/
- v  https://github.com/ihebski/DefaultCreds-cheat-sheet/blob/main/creds --> Credenciales por defecto de algunos software
- v  https://null-byte.wonderhowto.com/how-to/use-redrabbit-for-pen-testing-post-exploitation-windows-machines-0294990/
- v  https://noticiasseguridad.com/tutoriales/hacking-etico-las-60-mejores-herramientas-de-hacking-utilizadas-por-expertos-de-ciberseguridad-2021-parte-1/
- v  https://noticiasseguridad.com/tutoriales/hacking-etico-las-60-mejores-herramientas-de-hacking-utilizadas-por-expertos-de-ciberseguridad-2021-parte-2/
- v  https://null-byte.wonderhowto.com/how-to/clear-logs-bash-history-hacked-linux-systems-cover-your-tracks-remain-undetected-0244768/
- v  https://null-byte.wonderhowto.com/how-to/brute-force-nearly-any-website-login-with-hatch-0192225/
- v  https://null-byte.wonderhowto.com/how-to/android-for-hackers-turn-android-phone-into-hacking-device-without-root-0189649/
- v  https://hackingpassion.com/clear-your-tracks-on-linux/
- v  https://noticiasseguridad.com/tutoriales/como-realizar-auditorias-de-seguridadpentesting-de-dispositivos-cisco/
- v  https://noticiasseguridad.com/tutoriales/proceso-paso-a-paso-para-hackear-cajeros-automaticos-usando-black-box-jackpotting-de-cajeros-automaticos/
- v  https://noticiasseguridad.com/tutoriales/como-omitir-las-restricciones-de-carga-de-archivos-en-aplicaciones-web-para-instalar-backdoors/
- v  https://noticiasseguridad.com/tutoriales/como-disfrazar-un-malware-como-txt-jpeg-o-cualquier-formato-de-archivo-en-6-sencillos-pasos/
- v  https://www.flu-project.com/2021/05/obteniendo-informacion-de-direcciones.html
- v  https://noticiasseguridad.com/tutoriales/las-10-principales-utilidades-para-que-su-servidor-linux-detecte-intentos-de-hacking-y-supervise-las-actividades/
- v  https://noticiasseguridad.com/tutoriales/las-15-mejores-herramientas-para-realizar-analisis-de-vulnerabilidades-internas-y-hackear-redes-corporativas/
- v  https://null-byte.wonderhowto.com/how-to/fingerprint-web-apps-servers-for-better-recon-more-successful-hacks-0302807/
- v  https://null-byte.wonderhowto.com/how-to/find-identifying-information-from-phone-number-using-osint-tools-0195472/
- v  https://pentestbook.six2dez.com/ --> Best hacking tools by Alexis Fernandez (six2dez)
- v  https://ciberpatrulla.com/buscar-persona-nombre-apellidos/
- v  https://gbhackers.com/hacking-tools-list/
- v  https://cybersecuritynews.com/active-directory-checklist/
- v  https://www.blackhatethicalhacking.com/tools/
- v  https://guglia001.github.io/articulos/ad/htb/active-directory/
- v  https://hakin9.org/fsociety-hacking-tools-pack-a-penetration-testing-framework/
- v  https://start.me/p/ek4rxK/cryptocurrency-osint
- v  https://github.com/user1342/DroidDetective
+https://www.concise-courses.com/hacking-tools/top-ten/
+https://esgeeks.com/scripts-modulos-seguridad-powershell/
+https://www.hacking.land/2019/12/las-20-herramientas-de-hacking-m.html
+https://esgeeks.com/herramientas-enumeracion-subdominios/
+https://esgeeks.com/mejores-extensiones-chrome-para-pentesting/
+https://esgeeks.com/payload-evadir-antivirus-python/
+https://highon.coffee/blog/penetration-testing-tools-cheat-sheet/
+https://esgeeks.com/falsificar-telefono-llamadas-sms/
+https://www.hackplayers.com/2020/02/comparativa-tools-subdominios.html
+https://esgeeks.com/herramientas-pentesting-profesionales/
+https://protegermipc.net/2018/08/29/que-es-la-informatica-forense/ + (Herramientas forense)
+https://github.com/B3nac/Android-Reports-and-Resources (Hacking Android)
+https://attack.mitre.org/software/ (Tools Mitre)
+https://esgeeks.com/robar-contrasena-windows-fakelogonscreen/ (Pantalla login fake Windows)
+https://gbhackers.com/hacking-tools-list/
+https://www.redeszone.net/tutoriales/seguridad/herramientas-pentesting-redes-locales/
+https://noticiasseguridad.com/tutoriales/bibliotecas-de-python-empleadas-en-el-hacking/
+https://noticiasseguridad.com/seguridad-informatica/como-hackear-facilmente-su-smart-tv-samsung-y-lg/
+https://noticiasseguridad.com/vulnerabilidades/top-10-los-exploits-mas-utilizados-por-los-hackers-para-controlar-servidores-facilmente/
+https://esgeeks.com/hackear-facebook-con-batch-windows/
+https://www.elladodelmal.com/2020/04/hacking-windows-bitsadmin-for-pentesters.html
+https://blog.ehcgroup.io/2020/04/27/17/37/27/8598/las-herramientas-de-hacking-mas-famosas-de-2019/herramientas-de-seguridad/ehacking/
+https://www.hacking.land/2020/05/powershell-reverse-tcp-powershell.html
+https://noticiasseguridad.com/tutoriales/hackear-windows-10-utilizando-torat-herramienta-de-administrador-remoto-paso-a-paso/
+https://www.hackplayers.com/2020/05/crackear-usuario-windows-sin-privilegios.html
+https://thehackerway.com/2020/05/24/20-servicios-online-interesantes-para-red-teaming-o-pentesting/
+https://www.hackplayers.com/2020/06/backup-tosystem-abusando-de-los.html#more
+https://mundohacker.es/como-puedo-hackear-instagram-gratis/
+https://esgeeks.com/hacking-android-backdoor-apk/
+https://null-byte.wonderhowto.com/how-to/hack-wi-fi-cracking-wpa2-passwords-using-new-pmkid-hashcat-attack-0189379/
+https://www.hackbysecurity.com/blog/sql-injection
+https://noticiasseguridad.com/tutoriales/como-hackear-wifi-30-mejores-aplicaciones-de-hacking-para-android-y-iphone-en-2020/
+https://www.hackbysecurity.com/blog/extensiones
+https://null-byte.wonderhowto.com/how-to/escape-restricted-shell-environments-linux-0341685/
+https://null-byte.wonderhowto.com/how-to/analyze-web-browser-extensions-for-possible-malware-other-malicious-activity-0236335/
+https://www.hackplayers.com/2020/10/cmds-para-descargar-y-ejecutar-codigo.html
+https://www.hackplayers.com/2020/10/spybrowse-codigo-robar-navegadores.html
+https://www.hacking.land/2020/10/listado-de-herramientas-osint.html
+https://null-byte.wonderhowto.com/how-to/write-xss-cookie-stealer-javascript-steal-passwords-0180833/
+https://null-byte.wonderhowto.com/how-to/hack-like-pro-denial-service-dos-tools-techniques-0165699/
+https://null-byte.wonderhowto.com/how-to/hack-like-pro-hack-windows-vista-7-8-with-new-media-center-exploit-0164729/
+https://esgeeks.com/android-pin-bruteforce-desbloquear-telefono-fuerza-bruta/
+https://esgeeks.com/top-apps-monitorear-telefonos/
+https://null-byte.wonderhowto.com/how-to/essential-skills-becoming-master-hacker-0154509/
+https://null-byte.wonderhowto.com/how-to/hack-databases-cracking-sql-server-passwords-owning-server-0149636/
+https://www.secjuice.com/phone-numbers-investigation-the-open-source-way/
+https://top10espiasoftware.com/ --> Top 10 aplicaciones para espiar móviles
+https://esgeeks.com/guia-footprinting-de-sitios-web/
+https://www.elladodelmal.com/2020/12/depix-como-depixelar-contrasenas-que.html
+https://noticiasseguridad.com/vulnerabilidades/como-hackear-paypal-y-robar-dinero-de-los-demas-como-un-profesional/
+https://noticiasseguridad.com/seguridad-informatica/como-hackear-facilmente-su-smart-tv-samsung-y-lg/
+https://noticiasseguridad.com/tutoriales/seis-aplicaciones-de-hacking-para-android-que-todo-usuario-debe-tener/
+https://noticiasseguridad.com/tutoriales/como-hackear-las-cuentas-y-cookies-de-instagram-y-facebook-solo-con-un-click-video/
+https://noticiasseguridad.com/tutoriales/como-detectar-camaras-ocultas-en-hoteles-cajeros-automaticos-probadores-etc-usando-su-smartphone/
+https://null-byte.wonderhowto.com/how-to/hack-like-pro-finding-potential-suid-sgid-vulnerabilities-linux-unix-systems-0158373/
+https://www.hackplayers.com/2008/08/herramientas-sql-injection.html
+https://www.hackplayers.com/2019/11/taller-para-escalar-privilegios-en-windows-linux.html
+https://www.manusoft.es/windows/entrar-en-windows-sin-contrasena-como-administrador/
+https://www.hacking.land/2020/12/las-20-herramientas-de-hacking-m.html
+https://noticiasseguridad.com/importantes/como-extraer-datos-forenses-del-dispositivo-movil-de-android/
+https://noticiasseguridad.com/seguridad-informatica/como-interceptar-comunicaciones-moviles-llamadas-y-mensajes-facilmente-sin-hackear/
+https://noticiasseguridad.com/tutoriales/guia-completa-para-rastrear-aviones-de-presidentes-militares-y-aviones-de-pasajeros/
+https://www.hacking.land/2021/01/bug-en-windows-10-permite-corromper-el.html --> corromper disco c: windows 10
+https://noticiasseguridad.com/tutoriales/como-hacer-analisis-informatica-forenses-de-memoria-ram-para-recuperar-contrasenas-e-informacion-confidencial-con-mxtract/
+https://noticiasseguridad.com/tutoriales/como-hacer-una-auditoria-de-ciberseguridad-de-una-red-de-camaras-ip-tutorial-de-pentesting-de-sistemas-cctv/
+https://noticiasseguridad.com/tutoriales/como-detectar-camaras-ocultas-o-spy-cam-en-una-habitacion/
+https://github.com/ihebski/DefaultCreds-cheat-sheet/blob/main/creds --> Credenciales por defecto de algunos software
+https://null-byte.wonderhowto.com/how-to/use-redrabbit-for-pen-testing-post-exploitation-windows-machines-0294990/
+https://noticiasseguridad.com/tutoriales/hacking-etico-las-60-mejores-herramientas-de-hacking-utilizadas-por-expertos-de-ciberseguridad-2021-parte-1/
+https://noticiasseguridad.com/tutoriales/hacking-etico-las-60-mejores-herramientas-de-hacking-utilizadas-por-expertos-de-ciberseguridad-2021-parte-2/
+https://null-byte.wonderhowto.com/how-to/clear-logs-bash-history-hacked-linux-systems-cover-your-tracks-remain-undetected-0244768/
+https://null-byte.wonderhowto.com/how-to/brute-force-nearly-any-website-login-with-hatch-0192225/
+https://null-byte.wonderhowto.com/how-to/android-for-hackers-turn-android-phone-into-hacking-device-without-root-0189649/
+https://hackingpassion.com/clear-your-tracks-on-linux/
+https://noticiasseguridad.com/tutoriales/como-realizar-auditorias-de-seguridadpentesting-de-dispositivos-cisco/
+https://noticiasseguridad.com/tutoriales/proceso-paso-a-paso-para-hackear-cajeros-automaticos-usando-black-box-jackpotting-de-cajeros-automaticos/
+https://noticiasseguridad.com/tutoriales/como-omitir-las-restricciones-de-carga-de-archivos-en-aplicaciones-web-para-instalar-backdoors/
+https://noticiasseguridad.com/tutoriales/como-disfrazar-un-malware-como-txt-jpeg-o-cualquier-formato-de-archivo-en-6-sencillos-pasos/
+https://www.flu-project.com/2021/05/obteniendo-informacion-de-direcciones.html
+https://noticiasseguridad.com/tutoriales/las-10-principales-utilidades-para-que-su-servidor-linux-detecte-intentos-de-hacking-y-supervise-las-actividades/
+https://noticiasseguridad.com/tutoriales/las-15-mejores-herramientas-para-realizar-analisis-de-vulnerabilidades-internas-y-hackear-redes-corporativas/
+https://null-byte.wonderhowto.com/how-to/fingerprint-web-apps-servers-for-better-recon-more-successful-hacks-0302807/
+https://null-byte.wonderhowto.com/how-to/find-identifying-information-from-phone-number-using-osint-tools-0195472/
+https://pentestbook.six2dez.com/ --> Best hacking tools by Alexis Fernandez (six2dez)
+https://ciberpatrulla.com/buscar-persona-nombre-apellidos/
+https://gbhackers.com/hacking-tools-list/
+https://cybersecuritynews.com/active-directory-checklist/
+https://www.blackhatethicalhacking.com/tools/
+https://guglia001.github.io/articulos/ad/htb/active-directory/
+https://hakin9.org/fsociety-hacking-tools-pack-a-penetration-testing-framework/
+https://start.me/p/ek4rxK/cryptocurrency-osint
+https://github.com/user1342/DroidDetective
+https://reconshell.com/redteam-toolkit/
+https://reconshell.com/red-teaming-reconnaissance-process/
+https://reconshell.com/online-tools-for-osint/
 
 ### Distros hacking etico ###
 
@@ -550,6 +552,7 @@
     zbid 
     zbreplay 
     zbstumbler
+    WEF
  
 ### Herramientas NFC ###
  
@@ -1402,6 +1405,7 @@
     AQUATONE – Subdomain discovery tool utilizing various open sources producing a report that can be used as input to other tools.
     Intrigue – Automated OSINT & Attack Surface discovery framework with powerful API, UI and CLI.
     ZoomEye – Search engine for cyberspace that lets the user find specific network components.
+    octosuite – Advanced Open Source Intelligence Framework
 
 ### Anonymity Tools ###
 
