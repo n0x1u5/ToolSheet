@@ -132,6 +132,7 @@ https://github.com/user1342/DroidDetective
 https://reconshell.com/redteam-toolkit/
 https://reconshell.com/red-teaming-reconnaissance-process/
 https://reconshell.com/online-tools-for-osint/
+https://www.blockint.nl/the-osint-library/
 
 ### Distros hacking etico ###
 
@@ -1099,6 +1100,7 @@ https://reconshell.com/online-tools-for-osint/
 - TinEye: Es un buscador específico de imágenes, donde también se puede buscar por imagen o realizar la búsqueda de imagen inversa, cargando una imagen o buscando por URL. También permite simplemente arrastrar y soltar las imágenes para comenzar su búsqueda.
 - Socialhunter: crawls the website and finds broken social media links that can be hijacked
 - Project iKy: Is a tool that collects information from an email and shows results in a nice visual interface.
+- Lazy: This is a script for Kali Linux that automates many procedures about wifi penetration and hacking.
 
 ### Penetration Testing Resources ###
 
