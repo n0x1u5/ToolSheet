@@ -134,6 +134,9 @@ https://reconshell.com/red-teaming-reconnaissance-process/
 https://reconshell.com/online-tools-for-osint/
 https://www.blockint.nl/the-osint-library/
 https://3xploit666.medium.com/insector-43cab1487012
+https://www.bellingcat.com/resources/2021/11/09/first-steps-to-getting-started-in-open-source-research/
+https://osint.link/
+
 
 ### Distros hacking etico ###
 
@@ -199,6 +202,8 @@ https://3xploit666.medium.com/insector-43cab1487012
 - Email Hippo - [https://tools.verifyemailaddress.io/](https://tools.verifyemailaddress.io/)
 - Email Checker - [https://email-checker.net/validate](https://email-checker.net/validate)
 - Clearbit Connect - [https://chrome.google.com/webstore/detail/clearbit-connect-supercha/pmnhcgfcafcnkbengdcanjablaabjplo?hl=en](https://chrome.google.com/webstore/detail/clearbit-connect-supercha/pmnhcgfcafcnkbengdcanjablaabjplo?hl=en)
+- iKy - [https://github.com/kennbroorg/iKy]
+- h8mail [https://github.com/khast3x/h8mail]
 
 ### OSINT Contraseñas ###
 
@@ -249,6 +254,10 @@ https://3xploit666.medium.com/insector-43cab1487012
 - InstaDP - [https://www.instadp.com/](https://www.instadp.com/)
 - ImgInn - [https://imginn.com/](https://imginn.com/)
 - Snapchat Maps - [https://map.snapchat.com](https://map.snapchat.com/)
+- OSINTGram - [https://github.com/Datalux/Osintgram]
+- BlackBird - [https://github.com/p1ngul1n0/blackbird]
+- GitRecon - [https://github.com/GONZOsint/gitrecon]
+- Namechk - [https://github.com/GONZOsint/Namechk]
 
 ### OSINT Web ###
 
@@ -270,10 +279,12 @@ https://3xploit666.medium.com/insector-43cab1487012
 
 - Open Corporates - [https://opencorporates.com/](https://opencorporates.com/)
 - AI HIT - [https://www.aihitdata.com/](https://www.aihitdata.com/)
+- IPsint - [https://github.com/ShadowVMX/IPsint
 
 ### OSINT Wi-Fi ###
 
 - WiGLE - [https://wigle.net/](https://wigle.net/)
+- GEOWifi - [https://github.com/GONZOsint/geowifi]
 
 ### Máquina virtual OSINT ###
 
@@ -289,17 +300,17 @@ https://3xploit666.medium.com/insector-43cab1487012
  
 ### Herramientas DNS Análisis DNS ###
  
- - dnsdict6
- - dnsenum
- - dnsmap
- - dnsrecon
- - dnsrevenum6
- - dnstracer
- - dnswalk
- - fierce
- - maltego
- - nmap
- - urlcrazy
+   dnsdict6
+   dnsenum
+   dnsmap
+   dnsrecon
+   dnsrevenum6
+   dnstracer
+   dnswalk
+   fierce
+   maltego
+   nmap
+   urlcrazy
  
 ### Identificación Host ###
  
@@ -333,7 +344,6 @@ https://3xploit666.medium.com/insector-43cab1487012
     dnmap-server
     netdiscover
     nmap
- 
  
 ### Detección Sistema Operativo (OS Fingerprinting) ###
  
@@ -582,7 +592,7 @@ https://3xploit666.medium.com/insector-43cab1487012
     webmitm 
     webspy 
     wireshark
-     ettercap-graphical
+    ettercap-graphical
     evilgrade
     fake_advertise6
     fake_dns6d
@@ -1104,6 +1114,7 @@ https://3xploit666.medium.com/insector-43cab1487012
 - Project iKy: Is a tool that collects information from an email and shows results in a nice visual interface.
 - Lazy: This is a script for Kali Linux that automates many procedures about wifi penetration and hacking.
 - OSINTGRAM: es una herramienta creada por Datalux, la cual permite obtener información sobre el usuario que queramos de Instagram (siempre y cuando su cuenta sea pública o ya le estemos siguiendo previamente). Esta herramienta puede realizar diversas funciones, como por ejemplo: obtener los correos y números de los usuarios a los que sigue la cuenta, descargar la foto de perfil y stories de la cuenta, obtener la localización de los posts, etc.
+- UmbrellaCorporation: Repositorio basado de la película Resident evil en el cual trae diferentes tipos de Virus --> https://github.com/Monkey-hk4/UmbrellaCorporation
 
 ### Penetration Testing Resources ###
 
