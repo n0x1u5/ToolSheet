@@ -31,7 +31,7 @@
 ´´´´´´¶¶´´´¶¶¶´´´´´´´´´´´¶¶¶¶¶¶¶¶¶´´´´´´´´´´´¶¶¶´´´¶¶´´´´´´
 ´´´´´´¶¶´´¶¶´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´¶¶´´¶¶´´´´´´
 ´´´´´´´¶¶¶¶´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´¶¶¶´´´´´´´´
-                        ~By n0xiu5~
+                        ~By n0x1u5~
 
 
 ###  Páginas con herramientas / Posts interesantes ###
@@ -141,6 +141,21 @@ https://www.helpnetsecurity.com/2022/09/13/5-kali-linux-books/
 https://www.welivesecurity.com/la-es/2021/04/19/metodos-detectar-documento-office-malware/
 https://medium.com/@rezaduty/mobile-penetration-tester-roadmap-f2ec9bd68dcf
 https://derechodelared.com/investigando-url-maliciosa/
+https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/
+https://johnjhacking.com/blog/the-oscp-preperation-guide-2020/
+https://oscp.infosecsanyam.in/
+https://github.com/gh0x0st/Buffer_Overflow
+https://infosecsanyam261.gitbook.io/tryharder/buffer-overflow
+https://blog.own.sh/introduction-to-network-protocol-fuzzing-buffer-overflow-exploitation/
+https://veteransec.com/2018/09/10/32-bit-windows-buffer-overflows-made-easy/
+https://vulp3cula.gitbook.io/hackers-grimoire/exploitation/buffer-overflow
+https://www.corelan.be/index.php/2009/07/19/exploit-writing-tutorial-part-1-stack-based-overflows/
+https://eazeysec.com/BOF-Method/
+http://www.primalsecurity.net/tutorials/exploit-tutorials/
+http://www.fuzzysecurity.com/tutorials.html
+https://strongcourage.github.io/2020/04/19/bof.html
+https://cybersecuritynews.com/scan-linux-servers/
+https://www.myheritage.nl/photo-enhancer --> Mejora calidad fotos (OSINT)
 
 
 ### Distros hacking etico ###
@@ -291,6 +306,35 @@ https://derechodelared.com/investigando-url-maliciosa/
 
 - WiGLE - [https://wigle.net/](https://wigle.net/)
 - GEOWifi - [https://github.com/GONZOsint/geowifi]
+
+### OSINT Tools - Generic ###
+
+    Maltego – One of the Hacking Tools and Proprietary software for open source intelligence and forensics, from Paterva.
+    theHarvester – E-mail, subdomain and people names harvester.
+    creepy – Geolocation OSINT tool.
+    metagoofil – Metadata harvester.
+    Google Hacking Database – Database of Google dorks; can be used for recon.
+    Google-dorks – Common Google dorks and others you probably don’t know.
+    GooDork – Command line Google dorking tool.
+    dork-cli – Command line Google dork tool.
+    Censys – Collects data on hosts and websites through daily ZMap and ZGrab scans.
+    Shodan – World’s first search engine for Internet-connected devices.
+    recon-ng – One of the Hacking Tools Full-featured Web Reconnaissance framework written in Python.
+    github-dorks – CLI tool to scan Github repos/organizations for potential sensitive information leak.
+    vcsmap – Plugin-based tool to scan public version control systems for sensitive information.
+    Spiderfoot – Multi-source OSINT automation tool with a Web UI and report visualizations
+    BinGoo – GNU/Linux bash based Bing and Google Dorking Tool.
+    fast-recon – Perform Google dorks against a domain.
+    snitch – Information gathering via dorks.
+    Sn1per – ons of the Hacking Tools for Automated Pentest Recon Scanner.
+    Threat Crowd – Search engine for threats.
+    Virus Total – VirusTotal is a free service that analyzes suspicious files and URLs and facilitates the quick detection of viruses, worms, trojans, and all kinds of malware.
+    DataSploit – OSINT visualizer utilizing Shodan, Censys, Clearbit, EmailHunter, FullContact, and Zoomeye behind the scenes.
+    AQUATONE – Subdomain discovery tool utilizing various open sources producing a report that can be used as input to other tools.
+    Intrigue – Automated OSINT & Attack Surface discovery framework with powerful API, UI and CLI.
+    ZoomEye – Search engine for cyberspace that lets the user find specific network components.
+    octosuite – Advanced Open Source Intelligence Framework
+
 
 ### Máquina virtual OSINT ###
 
@@ -1403,33 +1447,6 @@ https://derechodelared.com/investigando-url-maliciosa/
     Catphish – Tool for phishing and corporate espionage written in Ruby.
     Beelogger – Tool for generating keylooger.
 
-### OSINT Tools ###
-
-    Maltego – One of the Hacking Tools and Proprietary software for open source intelligence and forensics, from Paterva.
-    theHarvester – E-mail, subdomain and people names harvester.
-    creepy – Geolocation OSINT tool.
-    metagoofil – Metadata harvester.
-    Google Hacking Database – Database of Google dorks; can be used for recon.
-    Google-dorks – Common Google dorks and others you probably don’t know.
-    GooDork – Command line Google dorking tool.
-    dork-cli – Command line Google dork tool.
-    Censys – Collects data on hosts and websites through daily ZMap and ZGrab scans.
-    Shodan – World’s first search engine for Internet-connected devices.
-    recon-ng – One of the Hacking Tools Full-featured Web Reconnaissance framework written in Python.
-    github-dorks – CLI tool to scan Github repos/organizations for potential sensitive information leak.
-    vcsmap – Plugin-based tool to scan public version control systems for sensitive information.
-    Spiderfoot – Multi-source OSINT automation tool with a Web UI and report visualizations
-    BinGoo – GNU/Linux bash based Bing and Google Dorking Tool.
-    fast-recon – Perform Google dorks against a domain.
-    snitch – Information gathering via dorks.
-    Sn1per – ons of the Hacking Tools for Automated Pentest Recon Scanner.
-    Threat Crowd – Search engine for threats.
-    Virus Total – VirusTotal is a free service that analyzes suspicious files and URLs and facilitates the quick detection of viruses, worms, trojans, and all kinds of malware.
-    DataSploit – OSINT visualizer utilizing Shodan, Censys, Clearbit, EmailHunter, FullContact, and Zoomeye behind the scenes.
-    AQUATONE – Subdomain discovery tool utilizing various open sources producing a report that can be used as input to other tools.
-    Intrigue – Automated OSINT & Attack Surface discovery framework with powerful API, UI and CLI.
-    ZoomEye – Search engine for cyberspace that lets the user find specific network components.
-    octosuite – Advanced Open Source Intelligence Framework
 
 ### Anonymity Tools ###
 
