@@ -183,6 +183,49 @@ https://www.myheritage.nl/photo-enhancer --> Mejora calidad fotos (OSINT)
 -Andrax: Distro de hacking etico desarrollada específicamente para smartphones Android, ANDRAX tiene la capacidad de ejecutarse de forma nativa en Android, por lo que se comporta como una distribución Linux común.
 -Tails: Sistema operativo portátil que te protege de la vigilancia y la censura. Puedes descargarlo de forma gratuita ya que está disponible bajo licencia GNU/Linux.
 
+### Penetration Testing Resources ###
+
+- Metasploit Unleashed – Free Offensive Security Metasploit course.
+- Penetration Testing Execution Standard (PTES) – Documentation designed to provide a common language and scope for performing and reporting the results of a penetration test.
+- Open Web Application Security Project (OWASP) – Worldwide not-for-profit charitable organization focused on improving the security of especially Web-based and Application-layer software.
+- PENTEST-WIKI – Free online security knowledge library for pentesters and researchers.
+- Penetration Testing Framework (PTF) – Outline for performing penetration tests compiled as a general framework usable by vulnerability analysts and penetration testers alike.
+- XSS-Payloads – Ultimate resource for all things cross-site including payloads, tools, games and documentation.
+- Open Source Security Testing Methodology Manual (OSSTMM) – Framework for providing test cases that result in verified facts on which to base decisions that impact an organization’s security.
+- MITRE’s Adversarial Tactics, Techniques & Common Knowledge (ATT&CK) – Curated knowledge base and model for cyber adversary behavior.
+
+### Exploit Development ###
+
+- Shellcode Tutorial – Tutorial on how to write shellcode.
+- Shellcode Examples – Shellcodes database.
+- Exploit Writing Tutorials – Tutorials on how to develop exploits.
+
+### Lock Picking ###
+
+- Schuyler Towne channel – Lockpicking videos and security talks.
+- bosnianbill – More lockpicking videos.
+- /r/lockpicking – Resources for learning lockpicking, equipment recommendations.
+
+### Docker for Penetration Testing ###
+
+- docker pull kalilinux/kali-linux-docker official Kali Linux
+- docker pull owasp/zap2docker-stable – official OWASP ZAP
+- docker pull wpscanteam/wpscan – official WPScan
+- docker pull citizenstig/dvwa – Damn Vulnerable Web Application (DVWA)
+- docker pull wpscanteam/vulnerablewordpress – Vulnerable WordPress Installation
+- docker pull hmlio/vaas-cve-2014-6271 – Vulnerability as a service: Shellshock
+- docker pull hmlio/vaas-cve-2014-0160 – Vulnerability as a service: Heartbleed
+- docker pull opendns/security-ninjas – Security Ninjas
+- docker pull diogomonica/docker-bench-security – Docker Bench for Security
+- docker pull ismisepaul/securityshepherd – OWASP Security Shepherd
+- docker pull danmx/docker-owasp-webgoat – OWASP WebGoat Project docker image
+- docker-compose build && docker-compose up – OWASP NodeGoat
+- docker pull citizenstig/nowasp – OWASP Mutillidae II Web Pen-Test Practice Application
+- docker pull bkimminich/juice-shop – OWASP Juice Shop
+- docker pull kalilinux/kali-linux-docker – Kali Linux Docker Image
+- docker pull phocean/msf – docker-metasploit
+
+
 ### OSINT Igenieria Social ###
 
 - casefile
@@ -393,7 +436,51 @@ https://www.myheritage.nl/photo-enhancer --> Mejora calidad fotos (OSINT)
     dnmap-client 
     dnmap-server
     netdiscover
-    nmap
+    zmap – Open source network scanner that enables researchers to easily perform Internet-wide network studies.
+    nmap – Free security scanner for network exploration & security audits.
+    pig – one of the Hacking Tools forGNU/Linux packet crafting .
+    scanless – Utility for using websites to perform port scans on your behalf so as not to reveal your own IP.
+    tcpdump/libpcap – Common packet analyzer that runs under the command line.
+    Wireshark – Widely-used graphical, cross-platform network protocol analyzer.
+    Network-Tools.com – Website offering an interface to numerous basic network utilities like ping, traceroute, whois, and more.
+    netsniff-ng – Swiss army knife for for network sniffing.
+    Intercepter-NG – Multifunctional network toolkit.
+    SPARTA – Graphical interface offering scriptable, configurable access to existing network infrastructure scanning and enumeration tools.
+    dnschef – Highly configurable DNS proxy for pentesters.
+    DNSDumpster – one of the Hacking Tools for Online DNS recon and search service.
+    CloudFail – Unmask server IP addresses hidden behind Cloudflare by searching old database records and detecting misconfigured DNS.
+    dnsenum – Perl script that enumerates DNS information from a domain, attempts zone transfers, performs a brute force dictionary style attack, and then performs reverse look-ups on the results.
+    dnsmap – One of the Hacking Tools for Passive DNS network mapper.
+    dnsrecon – One of the Hacking Tools for DNS enumeration script.
+    dnstracer – Determines where a given DNS server gets its information from, and follows the chain of DNS servers.
+    passivedns-client – Library and query tool for querying several passive DNS providers.
+    passivedns – Network sniffer that logs all DNS server replies for use in a passive DNS setup.
+    Mass Scan – best Hacking Tools for TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes.
+    Zarp – Network attack tool centered around the exploitation of local networks.
+    mitmproxy – Interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
+    Morpheus – Automated ettercap TCP/IP Hacking Tools .
+    mallory – HTTP/HTTPS proxy over SSH.
+    SSH MITM – Intercept SSH connections with a proxy; all plaintext passwords and sessions are logged to disk.
+    Netzob – Reverse engineering, traffic generation and fuzzing of communication protocols.
+    DET – Proof of concept to perform data exfiltration using either single or multiple channel(s) at the same time.
+    pwnat – Punches holes in firewalls and NATs.
+    dsniff – Collection of tools for network auditing and pentesting.
+    tgcd – Simple Unix network utility to extend the accessibility of TCP/IP based network services beyond firewalls.
+    smbmap – Handy SMB enumeration tool.
+    scapy – Python-based interactive packet manipulation program & library.
+    Dshell – Network forensic analysis framework.
+    Debookee – Simple and powerful network traffic analyzer for macOS.
+    Dripcap – Caffeinated packet analyzer.
+    Printer Exploitation Toolkit (PRET) – Tool for printer security testing capable of IP and USB connectivity, fuzzing, and exploitation of PostScript, PJL, and PCL printer language features.
+    Praeda – Automated multi-function printer data harvester for gathering usable data during security assessments.
+    routersploit – Open source exploitation framework similar to Metasploit but dedicated to embedded devices.
+    evilgrade – Modular framework to take advantage of poor upgrade implementations by injecting fake updates.
+    XRay – Network (sub)domain discovery and reconnaissance automation tool.
+    Ettercap – Comprehensive, mature suite for machine-in-the-middle attacks.
+    BetterCAP – Modular, portable and easily extensible MITM framework.
+    CrackMapExec – A swiss army knife for pentesting networks.
+    impacket – A collection of Python classes for working with network protocols.
+    
  
 ### Detección Sistema Operativo (OS Fingerprinting) ###
  
@@ -521,6 +608,17 @@ https://www.myheritage.nl/photo-enhancer --> Mejora calidad fotos (OSINT)
     webscarab
     webslayer
     zaproxy
+    Nikto – Noisy but fast black box web server and web application vulnerability scanner.
+    Arachni – Scriptable framework for evaluating the security of web applications.
+    w3af – Hacking Tools for Web application attack and audit framework.
+    Wapiti – Black box web application vulnerability scanner with built-in fuzzer.
+    SecApps – In-browser web application security testing suite.
+    WebReaver – Commercial, graphical web application vulnerability scanner designed for macOS.
+    WPScan – Hacking Tools of Black box WordPress vulnerability scanner.
+    cms-explorer – Reveal the specific modules, plugins, components and themes that various websites powered by content management systems are running.
+    joomscan – on of the best Hacking Tools for Joomla vulnerability scanner.
+    ACSTIS – Automated client-side template injection (sandbox escape/bypass) detection for AngularJS.
+
  
 ### Herramientas GPU ###
  
@@ -586,7 +684,6 @@ https://www.myheritage.nl/photo-enhancer --> Mejora calidad fotos (OSINT)
  
 ### Herramientas Wireless - Wifi ###
  
-    aircrack-ng
     aireplay-ng
     airmon-ng
     airodump-ng
@@ -597,7 +694,6 @@ https://www.myheritage.nl/photo-enhancer --> Mejora calidad fotos (OSINT)
     genkeys 
     genpmk
     giskismet 
-    kismet
     mdk3
     lazy
     wifiarp
@@ -605,7 +701,6 @@ https://www.myheritage.nl/photo-enhancer --> Mejora calidad fotos (OSINT)
     wifi-honey
     wifiping 
     wifitap
-    wifite 
     zbassocflood 
     zbconvert
     zbdsniff 
@@ -616,6 +711,12 @@ https://www.myheritage.nl/photo-enhancer --> Mejora calidad fotos (OSINT)
     zbreplay 
     zbstumbler
     WEF
+    Aircrack-ng – Set of Penetration testing & Hacking Tools list for auditing wireless networks.
+    Kismet – Wireless network detector, sniffer, and IDS.
+    Reaver – Brute force attack against WiFi Protected Setup.
+    Wifite – Automated wireless attack tool.
+    Fluxion – Suite of automated social engineering based WPA attacks.
+
  
 ### Herramientas NFC ###
  
