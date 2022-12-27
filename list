@@ -542,6 +542,7 @@ https://thehackerway.com/2022/12/07/10-herramientas-esenciales-para-pentesting-w
 ### Herramientas Fuzzing (Fuerza Bruta) ###
  
     bed
+    brutex
     fuzz_ip6
     ohrwurm
     powerfuzzer
@@ -1244,6 +1245,7 @@ https://thehackerway.com/2022/12/07/10-herramientas-esenciales-para-pentesting-w
 - Lazy: This is a script for Kali Linux that automates many procedures about wifi penetration and hacking.
 - OSINTGRAM: es una herramienta creada por Datalux, la cual permite obtener información sobre el usuario que queramos de Instagram (siempre y cuando su cuenta sea pública o ya le estemos siguiendo previamente). Esta herramienta puede realizar diversas funciones, como por ejemplo: obtener los correos y números de los usuarios a los que sigue la cuenta, descargar la foto de perfil y stories de la cuenta, obtener la localización de los posts, etc.
 - UmbrellaCorporation: Repositorio basado de la película Resident evil en el cual trae diferentes tipos de Virus --> https://github.com/Monkey-hk4/UmbrellaCorporation
+- Brutex: This tool is basically made to make the work of penetration tester easier. This tool is a package of three different tools which are Nmap, Hydra, DNSenum.
 
 ### Penetration Testing Resources ###
 
