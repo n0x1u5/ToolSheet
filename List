@@ -1250,6 +1250,7 @@ https://thehackerway.com/2023/01/18/10-herramientas-imprescindibles-para-pentest
 - UmbrellaCorporation: Repositorio basado de la película Resident evil en el cual trae diferentes tipos de Virus --> https://github.com/Monkey-hk4/UmbrellaCorporation
 - Brutex: This tool is basically made to make the work of penetration tester easier. This tool is a package of three different tools which are Nmap, Hydra, DNSenum.
 - linWinPwn: Active Directory Vulnerability Scanner
+- cloudflare-origin-ip: Try to find the origin IP of a webapp protected by Cloudflare.
 
 ### Penetration Testing Resources ###
 
