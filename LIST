@@ -167,28 +167,28 @@ https://thehackerway.com/2023/01/18/10-herramientas-imprescindibles-para-pentest
 
 ### Distros hacking etico ###
 
--KaliLinux
--CommandoVM: suite de hacking etico basado en Windows
--Backbox Linux
--Parrot OS
--Tool X: Suite de hacking etico para smartphone
--WiFiSlax: incluye una larga lista de herramientas de seguridad y auditoría listas para ser utilizadas, entre las que destacan numerosos escáner de puertos y vulnerabilidades, herramientas para creación y diseño de exploits, sniffers, herramientas de análisis forense y herramientas para la auditoría wireless, además de añadir una serie de útiles lanzadores.
--BackBox
--BlackArch
--Bugtraq
--Samurai Web Testing Framework
--Pentoo Linux
--Caine
--Network Security Toolkit
--Fedora Security Lab
--ArchStrike
--Matriux
--Weakerth4n
--Distrotest: Para probar distros de Linux sin instalarlas en tu equipo. (Igual que OnWorks)
--Damn Vulnerable Apps: Aplicaciones vulnerables para practicar hacking ético https://blog.ehcgroup.io/index.php/2019/11/29/lista-de-malditas-aplicaciones-vulnerables-para-jugar-con-el-pentesting/
--CSI Linux: Versión de Linux para informática forense.
--Andrax: Distro de hacking etico desarrollada específicamente para smartphones Android, ANDRAX tiene la capacidad de ejecutarse de forma nativa en Android, por lo que se comporta como una distribución Linux común.
--Tails: Sistema operativo portátil que te protege de la vigilancia y la censura. Puedes descargarlo de forma gratuita ya que está disponible bajo licencia GNU/Linux.
+- KaliLinux
+- CommandoVM: suite de hacking etico basado en Windows
+- Backbox Linux
+- Parrot OS
+- Tool X: Suite de hacking etico para smartphone
+- WiFiSlax: incluye una larga lista de herramientas de seguridad y auditoría listas para ser utilizadas, entre las que destacan numerosos escáner de puertos y vulnerabilidades, herramientas para creación y diseño de exploits, sniffers, herramientas de análisis forense y herramientas para la auditoría wireless, además de añadir una serie de útiles lanzadores.
+- BackBox
+- BlackArch
+- Bugtraq
+- Samurai Web Testing Framework
+- Pentoo Linux
+- Caine
+- Network Security Toolkit
+- Fedora Security Lab
+- ArchStrike
+- Matriux
+- Weakerth4n
+- Distrotest: Para probar distros de Linux sin instalarlas en tu equipo. (Igual que OnWorks)
+- Damn Vulnerable Apps: Aplicaciones vulnerables para practicar hacking ético https://blog.ehcgroup.io/index.php/2019/11/29/lista-de-malditas-aplicaciones-vulnerables-para-jugar-con-el-pentesting/
+- CSI Linux: Versión de Linux para informática forense.
+- Andrax: Distro de hacking etico desarrollada específicamente para smartphones Android, ANDRAX tiene la capacidad de ejecutarse de forma nativa en Android, por lo que se comporta como una distribución Linux común.
+- Tails: Sistema operativo portátil que te protege de la vigilancia y la censura. Puedes descargarlo de forma gratuita ya que está disponible bajo licencia GNU/Linux.
 
 
 ### Top ethical hacking certifications ###
