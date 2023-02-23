@@ -219,6 +219,53 @@ All: https://pauljerimy.com/security-certification-roadmap/
   · OSEE
   
 
+### Top Cibersecurity/Hacking conferences
+
+- Spain
+  · H-c0n
+  · Rooted
+  · MundoHacker Academy
+  · NoC0nName
+  · ViC0n
+  · Navaja Negra
+  · Osintomatico
+  · WonderhackEs
+  
+- World
+  · DEF CON – Annual hacker convention in Las Vegas.
+  · Black Hat – Annual security conference in Las Vegas.
+  · BSides – Framework for organising and holding security conferences.
+  · CCC – Annual meeting of the international hacker scene in Germany.
+  · DerbyCon – Annual hacker conference based in Louisville.
+  · PhreakNIC – Technology conference held annually in middle Tennessee.
+  · ShmooCon – Annual US East coast hacker convention.
+  · CarolinaCon – Infosec conference, held annually in North Carolina.
+  · CHCon – Christchurch Hacker Con, Only South Island of New Zealand hacker con.
+  · SummerCon – One of the oldest hacker conventions, held during Summer.
+  · Hack.lu – Annual conference held in Luxembourg.
+  · Hackfest – Largest hacking conference in Canada.
+  · HITB – Deep-knowledge security conference held in Malaysia and The Netherlands.
+  · Troopers – Annual international IT Security event with workshops held in Heidelberg, Germany.
+  · Hack3rCon – Annual US hacker conference.
+  · ThotCon – Annual US hacker conference held in Chicago.
+  · LayerOne – Annual US security conference held every spring in Los Angeles.
+  · DeepSec – Security Conference in Vienna, Austria.
+  · SkyDogCon – Technology conference in Nashville.
+  · SECUINSIDE – Security Conference in Seoul.
+  · DefCamp – Largest Security Conference in Eastern Europe, held annually in Bucharest, Romania.
+  · AppSecUSA – Annual conference organized by OWASP.
+  · BruCON – Annual security conference in Belgium.
+  · Infosecurity Europe – Europe’s number one information security event, held in London, UK.
+  · Nullcon – Annual conference in Delhi and Goa, India.
+  · RSA Conference USA – Annual security conference in San Francisco, California, USA.
+  · Swiss Cyber Storm – Annual security conference in Lucerne, Switzerland.
+  · Virus Bulletin Conference – Annual conference going to be held in Denver, USA for 2016.
+  · Ekoparty – Largest Security Conference in Latin America, held annually in Buenos Aires, Argentina.
+  · 44Con – Annual Security Conference held in London.
+  · BalCCon – Balkan Computer Congress, annually held in Novi Sad, Serbia.
+  · FSec – FSec – Croatian Information Security Gathering in Varaždin, Croatia.
+  
+  
 ### Penetration Testing Resources ###
 
 - Metasploit Unleashed – Free Offensive Security Metasploit course.
@@ -1730,42 +1777,8 @@ All: https://pauljerimy.com/security-certification-roadmap/
     Cybrary – Free courses in ethical hacking and advanced penetration testing. Advanced penetration testing courses are based on the book ‘Penetration Testing for Highly-Secured Environments’.
     Computer Security Student – Many free tutorials, great for beginners, $10/mo membership unlocks all content.
     European Union Agency for Network and Information Security – ENISA Cyber Security Training material.
-
-### Information Security Conferences ###
-
-    DEF CON – Annual hacker convention in Las Vegas.
-    Black Hat – Annual security conference in Las Vegas.
-    BSides – Framework for organising and holding security conferences.
-    CCC – Annual meeting of the international hacker scene in Germany.
-    DerbyCon – Annual hacker conference based in Louisville.
-    PhreakNIC – Technology conference held annually in middle Tennessee.
-    ShmooCon – Annual US East coast hacker convention.
-    CarolinaCon – Infosec conference, held annually in North Carolina.
-    CHCon – Christchurch Hacker Con, Only South Island of New Zealand hacker con.
-    SummerCon – One of the oldest hacker conventions, held during Summer.
-    Hack.lu – Annual conference held in Luxembourg.
-    Hackfest – Largest hacking conference in Canada.
-    HITB – Deep-knowledge security conference held in Malaysia and The Netherlands.
-    Troopers – Annual international IT Security event with workshops held in Heidelberg, Germany.
-    Hack3rCon – Annual US hacker conference.
-    ThotCon – Annual US hacker conference held in Chicago.
-    LayerOne – Annual US security conference held every spring in Los Angeles.
-    DeepSec – Security Conference in Vienna, Austria.
-    SkyDogCon – Technology conference in Nashville.
-    SECUINSIDE – Security Conference in Seoul.
-    DefCamp – Largest Security Conference in Eastern Europe, held annually in Bucharest, Romania.
-    AppSecUSA – Annual conference organized by OWASP.
-    BruCON – Annual security conference in Belgium.
-    Infosecurity Europe – Europe’s number one information security event, held in London, UK.
-    Nullcon – Annual conference in Delhi and Goa, India.
-    RSA Conference USA – Annual security conference in San Francisco, California, USA.
-    Swiss Cyber Storm – Annual security conference in Lucerne, Switzerland.
-    Virus Bulletin Conference – Annual conference going to be held in Denver, USA for 2016.
-    Ekoparty – Largest Security Conference in Latin America, held annually in Buenos Aires, Argentina.
-    44Con – Annual Security Conference held in London.
-    BalCCon – Balkan Computer Congress, annually held in Novi Sad, Serbia.
-    FSec – FSec – Croatian Information Security Gathering in Varaždin, Croatia.
-
+    
+    
 ### Information Security Magazines ###
 
     2600: The Hacker Quarterly – American publication about technology and computer “underground.”
