@@ -190,6 +190,35 @@ https://thehackerway.com/2023/01/18/10-herramientas-imprescindibles-para-pentest
 -Andrax: Distro de hacking etico desarrollada específicamente para smartphones Android, ANDRAX tiene la capacidad de ejecutarse de forma nativa en Android, por lo que se comporta como una distribución Linux común.
 -Tails: Sistema operativo portátil que te protege de la vigilancia y la censura. Puedes descargarlo de forma gratuita ya que está disponible bajo licencia GNU/Linux.
 
+
+### Top ethical hacking certifications ###
+
+All: https://pauljerimy.com/security-certification-roadmap/
+
+- Easy
+  · CPHE
+  · CEH
+  · CSIO
+  
+- Medium
+  · CHEE
+  · eJPTv2
+  · PNTP
+  · CRTP
+  · CRTO 1
+  · GPEN
+
+- Hard
+  · CRTO 2
+  · OSCP
+  · eCPPTv2
+  · OSEP
+  
+- Extreme
+  · eCPPTX
+  · OSEE
+  
+
 ### Penetration Testing Resources ###
 
 - Metasploit Unleashed – Free Offensive Security Metasploit course.
