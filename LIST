@@ -219,7 +219,6 @@ All: https://pauljerimy.com/security-certification-roadmap/
 - Extreme
   · eCPPTX
   · OSEE
-  
 
 ### Top Cibersecurity/Hacking conferences
 
@@ -648,6 +647,7 @@ All: https://pauljerimy.com/security-certification-roadmap/
      blindelephant
      plecost
      wpscan
+     joomscan
  
 ### Proxys ###
  
@@ -734,7 +734,7 @@ All: https://pauljerimy.com/security-certification-roadmap/
     webscarab
     zaproxy
  
-### Ataques Bluetooth ###
+### Ataques bluetooth ###
  
     bluelog
     bluemaho
@@ -1563,6 +1563,10 @@ All: https://pauljerimy.com/security-certification-roadmap/
     peCloak.py – Automates the process of hiding a malicious Windows executable from antivirus (AV) detection.
     peCloakCapstone – Multi-platform fork of the peCloak.py automated malware antivirus evasion tool.
     UniByAv – Simple obfuscator that takes raw shellcode and generates Anti-Virus friendly executables by using a brute-forcable, 32-bit XOR key.
+    EDRSandBlast ==> https://lnkd.in/e8g8zYFT
+    SPAWN – Cobalt Strike BOF ==> https://lnkd.in/e223PbqZ
+    NetLoader ==> https://lnkd.in/ef5wCD4y
+    KillDefenderBOF ==> https://lnkd.in/eVd54HUp
 
 ### Hash Cracking Hacking Tools ###
 
@@ -1823,3 +1827,92 @@ All: https://pauljerimy.com/security-certification-roadmap/
     Security Talks – Curated list of security conferences.
     OSINT – Awesome OSINT list containing great resources.
     YARA – YARA rules, tools, and people.
+  
+### BLUE TEAM TOOLS###
+
+NETWORK:
+
+   SELKS ==> https://lnkd.in/ehAHv7y4
+   CrowdSec ==> https://www.crowdsec.net/
+   Suricata ==> https://suricata.io/
+   OSSEC ==> https://lnkd.in/gnDBFAuu
+   PiHole ==> https://pi-hole.net/
+   AdGuardHome ==> https://lnkd.in/grqdJD2
+   NextDNS ==> https://nextdns.io/fr
+   ·pfSense: https://www.pfsense.org
+   ·Arkime: https://arkime.com
+
+SIEM/EDR/XDR/MDR:
+
+    Wazuh ==> https://wazuh.com/
+    GrayLog ==> https://www.graylog.org/ | https://lnkd.in/geMhgi9p
+    IBM QRadar ==> https://www.ibm.com/qradar
+    Splunk Security Essential ==> https://lnkd.in/gCgPCgUk
+    OpenEDR ==> https://www.openedr.com/
+    TehTris EDR ==> https://lnkd.in/guY687GW
+    SecurityOnion-Solutions ==> https://lnkd.in/gqrj7kGd
+    OSSIM: https://lnkd.in/dXegU3-5
+    LogRhythm ==> https://logrhythm.com
+    Cortex XDR ==> https://lnkd.in/devusd8T
+    Cynet 360 ==> https://lnkd.in/dZTXUwBE
+    FortiEDR ==> https://lnkd.in/daTMkVxb
+
+AUDIT/AD:
+
+    PingCastle ==> https://lnkd.in/gwujBCpm
+    Purple Knight ==> https://lnkd.in/eeqznxX8
+    PowerHuntShares ==> https://lnkd.in/ehDisjyQ
+
+DFIR/FORENSIC:
+
+    Snort ==> https://www.snort.org/
+    NetworkMiner ==> https://lnkd.in/e5qJb2bS
+    Zeek ==> https://zeek.org/
+    Brim ==> https://www.brimdata.io/
+    Wireshark ==> https://www.wireshark.org/
+    Sysinternals ==> https://lnkd.in/gCW23y_s
+    OSQuery ==> https://osquery.io/
+    PeStudio ==> https://www.winitor.com/
+    Volatility ==> https://lnkd.in/g2q-wYRR
+
+CTI/THREAT INTELLIGENCE/OSINT:
+
+    Posh – VirusTotal ==> https://lnkd.in/gdwrS-nB
+    Teleport ==> https://goteleport.com/
+    VirusTotal ==> https://lnkd.in/e9543GK2
+    OpenCTI ==> https://lnkd.in/e6XPYbGq
+    Manuka ==> https://lnkd.in/gYCrDUqK
+    PhishTool ==> https://www.phishtool.com/
+    MISP ==> https://lnkd.in/eD2wpfRH
+    Shodan ==> https://www.shodan.io/
+    DNSDumpster ==> https://dnsdumpster.com/
+    Awesome Osint ==> https://lnkd.in/e3WEXf2D
+    Yara ==> https://lnkd.in/eQAR6ivH
+    OpenCVE ==> https://lnkd.in/eG94zWWW
+    Fast Incident Response ==> https://lnkd.in/gpZYCFS6
+    criminalip ==> https://www.criminalip.io/
+
+OS ANALYSIS
+
+    Helk ==> https://lnkd.in/di4rQuNb
+    Volatility ==> https://lnkd.in/dBr4yVYa
+    RegRipper ==> https://lnkd.in/dq2hTNQw
+    OSSEC ==> https://www.ossec.net
+    osquery ==> https://osquery.io
+
+INCIDENT MANAGMENT
+
+    TheHive ==> https://lnkd.in/dkR-d4JB
+    GRR Rapid Response ==> https://lnkd.in/d42-6faP
+
+HONEYPOTS
+
+    Kippo ==> https://lnkd.in/d2ypa3j4
+    Cowrie ==> https://lnkd.in/dAR68JQt
+    Dockpot ==> https://lnkd.in/dgn7MpQg
+    HonSSH ==> https://lnkd.in/dMKptyHz
+
+THREAT INTELLIGENCE
+
+    Misp ==> https://lnkd.in/dkcbKsTN 
+    MSTICPy ==> https://lnkd.in/dBjgWVqY
