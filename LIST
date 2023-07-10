@@ -1334,7 +1334,21 @@ All: https://pauljerimy.com/security-certification-roadmap/
 - cloudflare-origin-ip: Try to find the origin IP of a webapp protected by Cloudflare.
 - r4ven: The tool hosts a fake website which uses an iframe to display a legit website and, if the target allows it, it will fetch the GPS location (latitude and longitude) of the target along with IP Address and Device Information.
 - symbiote: Your target's phone's front and back cameras can be accessed by sending a link.
-- fakeSMS: A small and efficent script to send SMS all over the world anonymously 
+- fakeSMS: A small and efficent script to send SMS all over the world anonymously
+- RustScan: Escáner de puertos moderno
+- naabu: Un rápido escáner de puertos escrito en go con foco en la confiabilidad y simplicidad.
+- sandmap: Nmap con esteroides. CLI simple con la capacidad de ejecutar Nmapengine puro, 31 módulos con 459 perfiles de escaneo
+- ScanCannon: Combina la velocidad de masscan con la fiabilidad y la enumeración detallada de nmap
+- EyeWitness: está diseñado para realizar capturas de pantalla de sitios web, proporcionar información sobre el encabezado del servidor e identificar credenciales predeterminadas si es posible.
+- aquatone: Es una herramienta para la inspección visual de sitios web a través de una gran cantidad de hosts y es conveniente para obtener rápidamente una visión general de la superficie de ataque basado en HTTP.
+- screenshoteer: Hacer capturas de pantalla de sitios web y emulaciones móvilesdesde la línea de comandos.
+- gowitness: Una utilidad golang de captura de pantalla web que utiliza ChromeHeadless.
+- WitnessMe: Herramienta de inventario web, realiza capturas de pantalla de páginas web utilizando Pyppeteer (Chrome/Chromium headless) y proporciona algunas campanas y silbatos adicionales para hacer la vida más fácil.
+- eyeballer: Red neuronal convolucional para analizar capturas de pantalla de pentests.
+- scrying: Una herramienta para recopilar capturas de pantalla RDP, web y VNC en un solo lugar
+- Depix: Recupera contraseñas a partir de capturas de pantalla pixeladas
+- httpscreenshot: HTTPScreenshot es una herramienta para realizar capturas de pantalla y HTML de un gran número de sitios web.
+- Furious: Scanner escrito en Go muy veloz. 
 
 ### Penetration Testing Resources ###
 
