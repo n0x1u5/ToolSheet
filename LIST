@@ -212,22 +212,18 @@ https://www.linkedin.com/feed/update/urn:li:activity:7059495946178445312/ --> Re
 https://cybersecuritynews.com/penetration-testing-tools/
 https://aupsham98.medium.com/practical-ios-penetration-testing-a-step-by-step-guide-8214d35aaf3c
 
-### Distros hacking etico ###
+### Penetration Testing Distributions ###
 
-- Kali Linux 
+- Kali Linux: distribution designed for digital forensics and penetration testing Hacking Tools
 - Kali Purple: Suite orientada a ejercicios de purple team
 - CommandoVM: suite de hacking etico basado en Windows
 - Backbox Linux
 - Parrot OS
 - Tool X: Suite de hacking etico para smartphone
 - WiFiSlax: incluye una larga lista de herramientas de seguridad y auditoría listas para ser utilizadas, entre las que destacan numerosos escáner de puertos y vulnerabilidades, herramientas para creación y diseño de exploits, sniffers, herramientas de análisis forense y herramientas para la auditoría wireless, además de añadir una serie de útiles lanzadores.
-- BackBox
-- BlackArch
 - Bugtraq
 - Samurai Web Testing Framework
-- Pentoo Linux
 - Caine
-- Network Security Toolkit
 - Fedora Security Lab
 - ArchStrike
 - Matriux
@@ -237,7 +233,16 @@ https://aupsham98.medium.com/practical-ios-penetration-testing-a-step-by-step-gu
 - CSI Linux: Versión de Linux para informática forense.
 - Andrax: Distro de hacking etico desarrollada específicamente para smartphones Android, ANDRAX tiene la capacidad de ejecutarse de forma nativa en Android, por lo que se comporta como una distribución Linux común.
 - Tails: Sistema operativo portátil que te protege de la vigilancia y la censura. Puedes descargarlo de forma gratuita ya que está disponible bajo licencia GNU/Linux.
-
+- ArchStrike: Arch GNU/Linux repository for security professionals and enthusiasts.
+- BlackArch: Arch GNU/Linux-based distribution with best Hacking Tools for penetration testers and security researchers.
+- Network Security Toolkit (NST): Fedora-based bootable live operating system designed to provide easy access to best-of-breed open source network security applications.
+- Pentoo: Security-focused live CD based on Gentoo.
+- BackBox: Ubuntu-based distribution for penetration tests and security assessments.
+- Parrot: Distribution similar to Kali, with multiple architectures with 100 of Hacking Tools.
+- Buscador: GNU/Linux virtual machine that is pre-configured for online investigators.
+- Fedora Security Lab: Provides a safe test environment to work on security auditing, forensics, system rescue and teaching security testing methodologies.
+- The Pentesters Framework: Distro organized around the Penetration Testing Execution Standard (PTES), providing a curated collection of utilities that eliminates often unused toolchains.
+- AttifyOS: GNU/Linux distribution focused on tools useful during Internet of Things (IoT) security assessments.
 
 ### Top Ethical Hacking/Red Team certifications ###
 
@@ -331,53 +336,29 @@ All: https://pauljerimy.com/security-certification-roadmap/
 ### Top 25 Bug Bounty Platforms ###
 
 01. Bugcrowd
-
 02. HackerOne
-
 03. Intigriti
-
 04. YesWeHack
-
 05. Synack, Inc.
-
 06. HackenProof | Web3 bug bounty platform
-
 07. Open Bug Bounty
-
 08. Immunefi
-
-09. Cobalt
-
+09. Cobal
 10. Zerocopter
-
 11. Yogosha
-
 12. SafeHats
-
 13. Vulnerability Research Labs, LLC
-
 14. AntiHACKme Pte Ltd
-
 15. RedStorm Information Security
-
 16. Cyber Army Indonesia
-
 17. Hacktrophy
-
 18. Nordic Defender
-
 19. Capture The Bug
-
 20. Bugbounter
-
 21. Detectify
-
 22. BugBase
-
 23. Code4rena
-
 24. huntr
-
 25. Pentabug
 
 The bug bounty platform shown here has various advantages. Yet, it's worth noting that there are many other great bug bounty platforms available as well. Each platform has its own features, community, and opportunities. The optimal platform for you will ultimately based on your unique requirements, skill set, and preferences.
@@ -796,6 +777,7 @@ Whether you're a seasoned security researcher looking for complex challenges or 
     cms-explorer – Reveal the specific modules, plugins, components and themes that various websites powered by content management systems are running.
     joomscan – on of the best Hacking Tools for Joomla vulnerability scanner.
     ACSTIS – Automated client-side template injection (sandbox escape/bypass) detection for AngularJS.
+    Nuclei -
 
  
 ### Herramientas GPU ###
@@ -1508,20 +1490,6 @@ Whether you're a seasoned security researcher looking for complex challenges or 
     Computer Aided Investigative Environment (CAINE) – Italian GNU/Linux live distribution created as a digital forensics project.
     Digital Evidence & Forensics Toolkit (DEFT) – Live CD for forensic analysis runnable without tampering or corrupting connected devices where the boot process takes place.
     Tails – Live OS aimed at preserving privacy and anonymity.
-
-### Penetration Testing Distributions ###
-
-    Kali – GNU/Linux distribution designed for digital forensics and penetration testing Hacking Tools
-    ArchStrike – Arch GNU/Linux repository for security professionals and enthusiasts.
-    BlackArch – Arch GNU/Linux-based distribution with best Hacking Tools for penetration testers and security researchers.
-    Network Security Toolkit (NST) – Fedora-based bootable live operating system designed to provide easy access to best-of-breed open source network security applications.
-    Pentoo – Security-focused live CD based on Gentoo.
-    BackBox – Ubuntu-based distribution for penetration tests and security assessments.
-    Parrot – Distribution similar to Kali, with multiple architectures with 100 of Hacking Tools.
-    Buscador – GNU/Linux virtual machine that is pre-configured for online investigators.
-    Fedora Security Lab – Provides a safe test environment to work on security auditing, forensics, system rescue and teaching security testing methodologies.
-    The Pentesters Framework – Distro organized around the Penetration Testing Execution Standard (PTES), providing a curated collection of utilities that eliminates often unused toolchains.
-    AttifyOS – GNU/Linux distribution focused on tools useful during Internet of Things (IoT) security assessments.
     
 ### Docker for Penetration Testing ###
 
@@ -1556,6 +1524,23 @@ Whether you're a seasoned security researcher looking for complex challenges or 
     Nessus – Commercial vulnerability management, configuration, and compliance assessment platform, sold by Tenable.
     OpenVAS – Free software implementation of the popular Nessus vulnerability assessment system.
     Vuls – Agentless vulnerability scanner for GNU/Linux and FreeBSD, written in Go.
+    httpX - httpx is a fast and multi-purpose HTTP toolkit that allows running multiple probes using the retryablehttp library.
+    Struts-Scan - Struts2 vulnerability detection and utilization tools.
+    W3af - Web application attack and audit framework, the open source web vulnerability scanner.
+    Archery - Open Source Vulnerability Assessment and Management helps developers and pentesters to perform scans and manage vulnerabilities.
+    Taipan - Web application vulnerability scanner.
+    Arachni - Web Application Security Scanner Framework.
+    Nuclei - Fast and customizable vulnerability scanner based on simple YAML based DSL.
+    Xray - A passive-vulnerability-scanner Tool.
+    Super-Xray - Web Vulnerability Scanner XRAY GUI Starter.
+    SiteScan - AllinOne Website Information Gathering Tools for pentest.
+    Banli - High-risk asset identification and high-risk vulnerability scanner.
+    vscan - Open Source Vulnerability Scanner.
+    Wapiti - Web vulnerability scanner written in Python3.
+    Scaninfo - fast scan for redtools.
+    osv-scanner - Vulnerability scanner written in Go.
+    Afrog - A Vulnerability Scanning Tools For Penetration Testing.
+
 
 ### Static Analyzers ###
 
