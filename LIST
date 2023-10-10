@@ -241,37 +241,6 @@ https://aupsham98.medium.com/practical-ios-penetration-testing-a-step-by-step-gu
 - The Pentesters Framework: Distro organized around the Penetration Testing Execution Standard (PTES), providing a curated collection of utilities that eliminates often unused toolchains.
 - AttifyOS: GNU/Linux distribution focused on tools useful during Internet of Things (IoT) security assessments.
 
-### Top Ethical Hacking/Red Team certifications ###
-
-All: https://pauljerimy.com/security-certification-roadmap/
-
-- Easy
-  · CPHE
-  · CEH
-  · CSIO
-  
-- Medium
-  · CHEE
-  · eJPTv2
-  · PNTP
-  · CRTP
-  · CRTO 1
-  · GPEN
-  · CEH Master
-  · CPENT
-
-- Hard
-  · CRTO 2
-  · OSCP
-  · CRTE
-  · eCPPTv2
-  · OSEP
-  
-- Extreme
-  · eCPPTX
-  · OSEE
-  · OSED
-  · eWPTX
 
 ### Top Blue Team certifications ###
 
