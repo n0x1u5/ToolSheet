@@ -1619,7 +1619,8 @@ Whether you're a seasoned security researcher looking for complex challenges or 
 - scrying: Una herramienta para recopilar capturas de pantalla RDP, web y VNC en un solo lugar
 - Depix: Recupera contraseñas a partir de capturas de pantalla pixeladas
 - httpscreenshot: HTTPScreenshot es una herramienta para realizar capturas de pantalla y HTML de un gran número de sitios web.
-- Furious: Scanner escrito en Go muy veloz. 
+- Furious: Scanner escrito en Go muy veloz.
+- emkei.cz: Esta página permite crear direcciones de correo electrónico FALSAS, lo que podría ser utilizado por ciberdelincuentes para realizar ataques de phishing.
 
 ### Penetration Testing Resources ###
 
