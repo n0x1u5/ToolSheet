@@ -1332,6 +1332,7 @@ Whether you're a seasoned security researcher looking for complex challenges or 
 - Poison Ivy: Es una Herramienta de Acceso Remoto (RAT) que es comúnmente aprovechada por los atacantes porque es gratuita y fácil de usar. Proporciona una plataforma rápida y rica en funciones para controlar un sistema comprometido. La instalación de un servidor C2 y la creación de una muestra de malware se puede hacer con unos pocos clics del ratón.
 - Promiscan: Es una herramienta de detección de nodos de olfateo estándar de facto recomendada por SANS y utilizada en todo el mundo desde su lanzamiento. PromiScan 3.0 ha mejorado sus capacidades de monitorización proporcionando una monitorización continua para detectar aplicaciones promiscuas que empiezan y terminan sin aumentar la carga de la red.
 - Pwdump2: Crackeador de contraseñas de Windows
+- Brut3k1t: es un módulo bruteforce del lado del servidor que admite ataques de diccionario para diversos protocolos (smtp, instagram, facebook, gmail, ssh, XMPP...)
 - Retina: Como Nessus, analiza todos los hosts de una red e informar sobre las vulnerabilidades encontradas. Fue escrito por eEye, que son bien conocidos por su investigación sobre seguridad.
 - Shadow Security Sacanner: Escáner proactivo de evaluación de vulnerabilidades de seguridad de redes informáticas con más de 5000 auditorías
 - xProbe2: Como nmap
